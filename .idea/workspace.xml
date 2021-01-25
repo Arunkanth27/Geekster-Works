@@ -2,36 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a164d1e3-a59b-4024-979e-e4f9c31ea10c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/Geekster/Week2/Day6/Day6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Geekster/Week2/Day7/AllIdxRecursive.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Geekster/Week2/Day7/FactorialRecursive.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Geekster/Week2/Day7/FibonacciRecursive.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Geekster/Week2/Day7/MaxArrayRecursive.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Geekster/Week2/Day7/PowerRecursive.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Geekster/Week2/Day7/PrintArrayRecursive.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Geekster/Week2/Day7/PrintRecursive.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Geekster/Week2/Day7/PrintRecursive2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Geekster/Week2/Day7/SearchIdxRecursive.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Geekster/Week2/Day7/SearchRecursive.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Geekster/Week2/Day7/getSubSequence.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week2/Day7/AllIdxRecursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week2/Day7/FactorialRecursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week2/Day7/FibonacciRecursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week2/Day7/MaxArrayRecursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week2/Day7/PowerRecursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week2/Day7/PrintArrayRecursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week2/Day7/PrintRecursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week2/Day7/PrintRecursive2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week2/Day7/SearchIdxRecursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week2/Day7/SearchRecursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week2/Day7/getPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week2/Day7/getSubSequence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/Week1/Day1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekster/Week1/Day1/Day1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/Week1/Day2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekster/Week1/Day2/Day2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/Week1/Day3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekster/Week1/Day3/Day3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/Week2/Day5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekster/Week2/Day5/Day5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/Week2/Day6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week2/Day7/getSubSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week2/Day7/getSubSequence.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.getPermutation">
+  <component name="RunManager" selected="Application.getSubSequence">
     <configuration name="AllIdxRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week2.Day7.AllIdxRecursive" />
       <module name="Geekster" />
@@ -99,8 +71,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.getPermutation" />
         <item itemvalue="Application.getSubSequence" />
+        <item itemvalue="Application.getPermutation" />
         <item itemvalue="Application.AllIdxRecursive" />
         <item itemvalue="Application.SearchIdxRecursive" />
         <item itemvalue="Application.SearchRecursive" />
