@@ -15,19 +15,16 @@ public class getPermutation {
             br.add("");
             return br;
         }
-
-        char ch = s.charAt(0);
-        String ros = s.substring(1);
-
-        ArrayList<String> rr = solve(ros);
-        ArrayList<String> mr = new ArrayList<>();
-        for(String rs : rr) {
-            for(int i = 0 ; i <= rs.length() ; i++) {
-                String ms = rs.substring(0, i) + ch + rs.substring(i);
-                mr.add(ms);
+        char firstchar = s.charAt(0);
+        ArrayList<String> recursionresult = solve(s.substring(1));
+        ArrayList<String> finalresult = new ArrayList<>();
+        for(String str : recursionresult) {
+            for(int i = 0 ; i <= str.length() ; i++) {
+                finalresult.add(str.substring(0, i) + firstchar + str.substring(i));
             }
         }
-        return mr;
+
+        return finalresult;
     }
 
 }

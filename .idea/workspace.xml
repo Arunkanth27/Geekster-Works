@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a164d1e3-a59b-4024-979e-e4f9c31ea10c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/Day7/getSubSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week2/Day7/getSubSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week2/Day7/getPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week2/Day7/getPermutation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.getSubSequence">
+  <component name="RunManager" selected="Application.getPermutation">
     <configuration name="AllIdxRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week2.Day7.AllIdxRecursive" />
       <module name="Geekster" />
@@ -71,8 +71,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.getSubSequence" />
         <item itemvalue="Application.getPermutation" />
+        <item itemvalue="Application.getSubSequence" />
         <item itemvalue="Application.AllIdxRecursive" />
         <item itemvalue="Application.SearchIdxRecursive" />
         <item itemvalue="Application.SearchRecursive" />
