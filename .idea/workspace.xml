@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a164d1e3-a59b-4024-979e-e4f9c31ea10c" name="Default Changelist" comment="">
+    <list default="true" id="a164d1e3-a59b-4024-979e-e4f9c31ea10c" name="Default Changelist" comment="update get permutation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/Day7/getPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week2/Day7/getPermutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekster/Week2/Day7/getPermutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekster/Week2/Day7/getPermutation.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,5 +91,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update get permutation" />
+    <option name="LAST_COMMIT_MESSAGE" value="update get permutation" />
   </component>
 </project>

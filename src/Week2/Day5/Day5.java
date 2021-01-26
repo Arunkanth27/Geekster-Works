@@ -25,7 +25,8 @@ public class Day5 {
         int majority = nums[0];
         int count = 1;
         int n = nums.length;
-        for(int i : nums) {
+        for(int j = 1 ; j < n ; j++) {
+            int i = nums[j];
             if(majority == i) {
                 count++;
             } else {
