@@ -1,9 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a164d1e3-a59b-4024-979e-e4f9c31ea10c" name="Default Changelist" comment="update get permutation">
+    <list default="true" id="a164d1e3-a59b-4024-979e-e4f9c31ea10c" name="Default Changelist" comment="updated Day 5 waterwall problem">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/Week2/Day7/getPermutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekster/Week2/Day7/getPermutation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekster/Week2/Day5/Day5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekster/Week2/Day5/Day5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekster/Week2/Day7/getPermutation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekster/Week2/Day7/getSubSequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week2/Day7/AllIdxRecursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week2/Day7/AllIdx_Recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week2/Day7/FactorialRecursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week2/Day7/Factorial_Recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week2/Day7/FibonacciRecursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week2/Day7/Fibonacci_Recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week2/Day7/MaxArrayRecursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week2/Day7/MaxArray_Recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week2/Day7/PowerRecursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week2/Day7/Power_Recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week2/Day7/PrintArrayRecursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week2/Day7/PrintArray_Recursivon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week2/Day7/PrintRecursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week2/Day7/Print_Recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week2/Day7/PrintRecursive2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week2/Day7/Print_Recursion2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week2/Day7/SearchIdxRecursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week2/Day7/SearchIdx_Recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week2/Day7/SearchRecursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week2/Day7/Search_Recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week2/Day7/getPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week2/Day7/getPermutation_Recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week2/Day7/getSubSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week2/Day7/getSubSequence_Recursion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,37 +47,37 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.getPermutation">
-    <configuration name="AllIdxRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week2.Day7.AllIdxRecursive" />
+  <component name="RunManager" selected="Application.GetMazePathDiagonalMultipleMoves_Recursion">
+    <configuration name="GetBoardParts_Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week3.Day8.GetBoardParts_Recursion" />
       <module name="Geekster" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchIdxRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week2.Day7.SearchIdxRecursive" />
+    <configuration name="GetKeypadCharacter_Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week3.Day8.GetKeypadCharacter_Recursion" />
       <module name="Geekster" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week2.Day7.SearchRecursive" />
+    <configuration name="GetMazePathDiagonalMultipleMoves_Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week3.Day8.GetMazePathDiagonalMultipleMoves_Recursion" />
       <module name="Geekster" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="getPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week2.Day7.getPermutation" />
+    <configuration name="GetMazePaths_Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week3.Day8.GetMazePaths_Recursion" />
       <module name="Geekster" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="getSubSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week2.Day7.getSubSequence" />
+    <configuration name="getPermutation_Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week2.Day7.getPermutation_Recursion" />
       <module name="Geekster" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.getPermutation" />
-        <item itemvalue="Application.getSubSequence" />
-        <item itemvalue="Application.AllIdxRecursive" />
-        <item itemvalue="Application.SearchIdxRecursive" />
-        <item itemvalue="Application.SearchRecursive" />
+        <item itemvalue="Application.GetMazePathDiagonalMultipleMoves_Recursion" />
+        <item itemvalue="Application.GetMazePaths_Recursion" />
+        <item itemvalue="Application.GetBoardParts_Recursion" />
+        <item itemvalue="Application.GetKeypadCharacter_Recursion" />
+        <item itemvalue="Application.getPermutation_Recursion" />
       </list>
     </recent_temporary>
   </component>
@@ -94,6 +108,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update get permutation" />
-    <option name="LAST_COMMIT_MESSAGE" value="update get permutation" />
+    <MESSAGE value="updated Day 5 waterwall problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated Day 5 waterwall problem" />
   </component>
 </project>

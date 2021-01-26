@@ -2,7 +2,7 @@ package Week2.Day7;
 
 import java.util.Scanner;
 
-public class MaxArrayRecursive {
+public class MaxArray_Recursion {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

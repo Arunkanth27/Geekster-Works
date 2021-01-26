@@ -2,7 +2,7 @@ package Week2.Day7;
 
 import java.util.Scanner;
 
-public class PrintRecursive2 {
+public class Print_Recursion2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
