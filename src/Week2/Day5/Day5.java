@@ -98,35 +98,39 @@ public class Day5 {
     private static void waterandwall() {
         Scanner sc = new Scanner(System.in);
 
-        int size = sc.nextInt(); //12
-        int[] wallsize = new int[size]; //0 1 0 2 1 0 1 3 2 1 2 1
-
-        for(int i = 0 ; i < wallsize.length ; i++) {
-            wallsize[i] = sc.nextInt();
+        int size = sc.nextInt(); // 12
+        int[] wall = new int[size]; // 0 1 0 2 1 0 1 3 2 1 2 1
+        for(int i = 0 ; i < size ; i++) {
+            wall[i] = sc.nextInt();
         }
+
         int[] leftmax = new int[size];
         int[] rightmax = new int[size];
 
-        leftmax[0] = wallsize[0];
-        rightmax[size - 1] = wallsize[size - 1];
+        leftmax[0] = wall[0];
+        rightmax[size - 1] = wall[size - 1];
+
         for(int i = 1 ; i < size ; i++) {
-            leftmax[i] = Math.max(leftmax[i - 1], wallsize[i]);
+            leftmax[i] = Math.max(leftmax[i - 1], wall[i]);
         }
 
         for(int i = size - 2 ; i >= 0 ; i--) {
-            rightmax[i] = Math.max(rightmax[i + 1], wallsize[i]);
+            rightmax[i] = Math.max(rightmax[i + 1], wall[i]);
         }
+
         int result = 0;
+
         for(int i = 0 ; i < size ; i++) {
+            int min = Math.min(leftmax[i], rightmax[i]);
 
-            int minwall = Math.min(leftmax[i], rightmax[i]);
-
-            if(minwall > wallsize[i]) {
-                result += minwall - wallsize[i];
+            if(min > wall[i]) {
+                result += min - wall[i];
             }
+
         }
 
-        System.out.println(result); //6
+        System.out.println(result); // 6
+
         sc.close();
     }
 }
