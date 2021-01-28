@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="a164d1e3-a59b-4024-979e-e4f9c31ea10c" name="Default Changelist" comment="Day 8 with some updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekster/Week2/Day5/Day5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekster/Week2/Day5/Day5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekster/Week3/Day8/GetBoardParts_Recursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekster/Week3/Day8/GetBoardParts_Recursion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekster/Week3/Day8/GetMazePathDiagonalMultipleMoves_Recursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekster/Week3/Day8/GetMazePathDiagonalMultipleMoves_Recursion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekster/Week3/Day8/GetMazePathsDiagonal_Recursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekster/Week3/Day8/GetMazePathsDiagonal_Recursion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekster/Week3/Day8/GetMazePaths_Recursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekster/Week3/Day8/GetMazePaths_Recursion.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,16 +37,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Day5">
-    <configuration name="Day5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week2.Day5.Day5" />
-      <module name="Geekster" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GetBoardParts_Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week3.Day8.GetBoardParts_Recursion" />
+  <component name="RunManager" selected="Application.PrintSplitArray_QAApproach">
+    <configuration name="GetKeypadCharacter_QAApproach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week3.Day9.GetKeypadCharacter_QAApproach" />
       <module name="Geekster" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -54,15 +52,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetMazePathDiagonalMultipleMoves_Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week3.Day8.GetMazePathDiagonalMultipleMoves_Recursion" />
+    <configuration name="PrintSplitArray_QAApproach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week3.Day9.PrintSplitArray_QAApproach" />
       <module name="Geekster" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetMazePaths_Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week3.Day8.GetMazePaths_Recursion" />
+    <configuration name="TargetSumSubsequence_QAApproach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week3.Day9.TargetSumSubsequence_QAApproach" />
+      <module name="Geekster" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="getSubsequence_QAApproach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week3.Day9.getSubsequence_QAApproach" />
       <module name="Geekster" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Day5" />
-        <item itemvalue="Application.GetMazePathDiagonalMultipleMoves_Recursion" />
-        <item itemvalue="Application.GetMazePaths_Recursion" />
-        <item itemvalue="Application.GetBoardParts_Recursion" />
+        <item itemvalue="Application.PrintSplitArray_QAApproach" />
+        <item itemvalue="Application.TargetSumSubsequence_QAApproach" />
+        <item itemvalue="Application.GetKeypadCharacter_QAApproach" />
         <item itemvalue="Application.GetKeypadCharacter_Recursion" />
+        <item itemvalue="Application.getSubsequence_QAApproach" />
       </list>
     </recent_temporary>
   </component>
