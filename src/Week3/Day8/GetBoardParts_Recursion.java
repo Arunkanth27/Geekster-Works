@@ -11,7 +11,7 @@ public class GetBoardParts_Recursion {
     private static ArrayList<String> solve(int current, int end) {
         if(current == end) {
             ArrayList<String> br = new ArrayList<>();
-            br.add("\n");
+            br.add("");
             return br;
         }
 

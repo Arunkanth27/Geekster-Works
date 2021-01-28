@@ -12,7 +12,7 @@ public class GetMazePathsDiagonal_Recursion {
     private static ArrayList<String> solve(int currentrow, int currentcolumn, int endrow, int endcolumn) {
         if(currentrow == endrow && currentcolumn == endcolumn) {
             ArrayList<String> br = new ArrayList<>();
-            br.add("\n");
+            br.add("");
             return br;
         }
 
