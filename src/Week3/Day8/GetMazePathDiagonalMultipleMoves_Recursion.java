@@ -32,7 +32,7 @@ public class GetMazePathDiagonalMultipleMoves_Recursion {
         }
 
         move = 1;
-        while(move <= endcolumn) {
+        while(move <= endrow) {
             ArrayList<String> recursiveresultvertical = solve(currentrow + move, currentcolumn, endrow, endcolumn);
             for (String s : recursiveresultvertical) {
                 finalresult.add("V" + move + s);
@@ -41,7 +41,7 @@ public class GetMazePathDiagonalMultipleMoves_Recursion {
         }
 
         move = 1;
-        while(move <= endcolumn) {
+        while(move <= endrow && move <= endcolumn) {
             ArrayList<String> recursiveresultdiag = solve(currentrow + move, currentcolumn + move, endrow, endcolumn);
             for (String s : recursiveresultdiag) {
                 finalresult.add("D" + move + s);
