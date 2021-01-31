@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a164d1e3-a59b-4024-979e-e4f9c31ea10c" name="Default Changelist" comment="Day 8 with some updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week3/Day10/GetBoardParts_QAApproach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/Day10/GetBoardParts_QAApproach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week3/Day10/GetMazePaths_QAApporach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/Day10/GetMazePaths_QAApporach.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +35,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.GetBoardParts_QAApproach">
+  <component name="RunManager" selected="Application.GetMazePathsDiagonal_QAApproach">
     <configuration name="AllIdx_Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week2.Day7.AllIdx_Recursion" />
       <module name="Geekster" />
@@ -48,6 +50,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GetMazePathsDiagonal_QAApproach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week3.Day10.GetMazePathsDiagonal_QAApproach" />
+      <module name="Geekster" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetMazePaths_QAApporach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week3.Day10.GetMazePaths_QAApporach" />
+      <module name="Geekster" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GetMazePaths_Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week3.Day8.GetMazePaths_Recursion" />
       <module name="Geekster" />
@@ -55,27 +71,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TargetSumSubsequence_QAApproach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week3.Day9.TargetSumSubsequence_QAApproach" />
-      <module name="Geekster" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="getSubsequence_QAApproach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week3.Day9.getSubsequence_QAApproach" />
-      <module name="Geekster" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GetMazePathsDiagonal_QAApproach" />
+        <item itemvalue="Application.GetMazePaths_QAApporach" />
         <item itemvalue="Application.GetBoardParts_QAApproach" />
         <item itemvalue="Application.AllIdx_Recursion" />
         <item itemvalue="Application.GetMazePaths_Recursion" />
-        <item itemvalue="Application.getSubsequence_QAApproach" />
-        <item itemvalue="Application.TargetSumSubsequence_QAApproach" />
       </list>
     </recent_temporary>
   </component>

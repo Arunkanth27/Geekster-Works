@@ -2,7 +2,7 @@ package Week3.Day10;
 
 import java.util.*;
 
-public class GetMazePaths_QAApporach {
+public class GetMazePathsDiagonal_QAApproach {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         solve(sc.nextInt(), sc.nextInt());
@@ -24,10 +24,12 @@ public class GetMazePaths_QAApporach {
 //        }
 
         if(cr + 1 <= er) // Proactive Condition
-            solve(cr + 1, cc, er, ec, s + "H");
+            solve(cr + 1, cc, er, ec, "H" + s);
 
         if(cc + 1 <= ec) // Proactive Condition
-            solve(cr, cc + 1, er, ec, s + "V");
+            solve(cr, cc + 1, er, ec, "V" + s);
 
+        if(cr + 1 <= er && cc + 1 <= ec) // Proactive Conditions
+            solve(cr + 1, cc + 1, er, ec, "D" + s);
     }
 }
