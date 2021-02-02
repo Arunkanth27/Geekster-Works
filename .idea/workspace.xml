@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a164d1e3-a59b-4024-979e-e4f9c31ea10c" name="Default Changelist" comment="Day 8 with some updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/Week1/Homework.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/Week3/Day10/SolveSudoku_Backtracking.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekster/Week3/Day10/SolveSudoku_Backtracking.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week1/Homework.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +33,23 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.PrintArrayToKSumSubset_Backtracking">
-    <configuration name="PrintArrayToKSubsets_Backtracking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week3.Day11.PrintArrayToKSubsets_Backtracking" />
+  <component name="RunManager" selected="Application.FillBinaryValue_Recursion">
+    <configuration name="FillBinaryValue_Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week4.Day12.FillBinaryValue_Recursion" />
+      <module name="Geekster" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week4.Day12.MergeSort" />
+      <module name="Geekster" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PivotPartition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week4.Day12.PivotPartition" />
       <module name="Geekster" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -51,22 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveInvalidParenthesis_Backtracking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week3.Day11.RemoveInvalidParenthesis_Backtracking" />
-      <module name="Geekster" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SolveSudoku_Backtracking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week3.Day10.SolveSudoku_Backtracking" />
-      <module name="Geekster" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WordBreak_BackTracking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week3.Day11.WordBreak_BackTracking" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week4.Day12.QuickSort" />
       <module name="Geekster" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +71,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FillBinaryValue_Recursion" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.PivotPartition" />
+        <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.PrintArrayToKSumSubset_Backtracking" />
-        <item itemvalue="Application.RemoveInvalidParenthesis_Backtracking" />
-        <item itemvalue="Application.WordBreak_BackTracking" />
-        <item itemvalue="Application.PrintArrayToKSubsets_Backtracking" />
-        <item itemvalue="Application.SolveSudoku_Backtracking" />
       </list>
     </recent_temporary>
   </component>
