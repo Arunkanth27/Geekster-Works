@@ -33,37 +33,37 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.FillBinaryValue_Recursion">
-    <configuration name="FillBinaryValue_Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week4.Day12.FillBinaryValue_Recursion" />
+  <component name="RunManager" selected="Application.ArrayToZigZagFashion">
+    <configuration name="ArrayToZigZagFashion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.Arrays.ArrayToZigZagFashion" />
       <module name="Geekster" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week4.Day12.MergeSort" />
+    <configuration name="EquillibriumIndexOfAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.Arrays.EquillibriumIndexOfAnArray" />
       <module name="Geekster" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PivotPartition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week4.Day12.PivotPartition" />
+    <configuration name="KConcatenation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.Arrays.KConcatenation" />
       <module name="Geekster" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintArrayToKSumSubset_Backtracking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week3.Day11.PrintArrayToKSumSubset_Backtracking" />
+    <configuration name="PairOfTwoDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.Arrays.PairOfTwoDifference" />
       <module name="Geekster" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week4.Day12.QuickSort" />
+    <configuration name="SubArraysWithGivenSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.Arrays.SubArraysWithGivenSum" />
       <module name="Geekster" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,11 +71,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FillBinaryValue_Recursion" />
-        <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.PivotPartition" />
-        <item itemvalue="Application.MergeSort" />
-        <item itemvalue="Application.PrintArrayToKSumSubset_Backtracking" />
+        <item itemvalue="Application.ArrayToZigZagFashion" />
+        <item itemvalue="Application.PairOfTwoDifference" />
+        <item itemvalue="Application.SubArraysWithGivenSum" />
+        <item itemvalue="Application.KConcatenation" />
+        <item itemvalue="Application.EquillibriumIndexOfAnArray" />
       </list>
     </recent_temporary>
   </component>
