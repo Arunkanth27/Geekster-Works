@@ -23,17 +23,16 @@ public class KConcatenation {
     }
     public static int maxsubarraysum(int res[])
     {
-        int maxsum=Integer.MIN_VALUE;
-        int cursum=0;
+        int maxcurrent = res[0];
+        int maxglobal = res[0];
 
-        for(int i=0;i<res.length;i++)
+        for(int i=1;i<res.length;i++)
         {
-            cursum+=res[i];
-            maxsum = Math.max(cursum, maxsum);
-            cursum = cursum < 0 ? 0 : cursum;
+            maxcurrent = Math.max(res[i], maxcurrent + res[i]);
+            maxglobal = Math.max(maxcurrent, maxglobal);
         }
 
-        return maxsum;
+        return maxglobal;
     }
     public static int[] repeat(int a[],int n,int k)
     {
