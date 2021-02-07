@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a164d1e3-a59b-4024-979e-e4f9c31ea10c" name="Default Changelist" comment="Day 8 with some updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/Arrays/SearchElementInSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/Arrays/SearchElementInSortedRotatedArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,23 +41,31 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.MaximumProductSubarray">
+  <component name="RecentsManager">
+    <key name="MoveInnerDialog.RECENTS_KEY">
+      <recent name="Homework.LinkedList" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Homework.LinkedList" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.WordBreak_BackTracking">
+    <configuration name="DeleteByPointer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.LinkedList.DeleteByPointer" />
+      <module name="Geekster" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatrixToSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.Matrix.MatrixToSortedArray" />
+      <module name="Geekster" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MaximumProductSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework.Arrays.MaximumProductSubarray" />
-      <module name="Geekster" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Practice (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice" />
-      <module name="Geekster" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week4.Day13.Practice" />
       <module name="Geekster" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchElementInSortedRotatedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework.Arrays.SearchElementInSortedRotatedArray" />
+    <configuration name="WordBreak_BackTracking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week3.Day11.WordBreak_BackTracking" />
       <module name="Geekster" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WordBreak_BackTracking" />
+        <item itemvalue="Application.DeleteByPointer" />
+        <item itemvalue="Application.MatrixToSortedArray" />
         <item itemvalue="Application.MaximumProductSubarray" />
         <item itemvalue="Application.RearrangePositiveAndNegativeNumber" />
-        <item itemvalue="Application.SearchElementInSortedRotatedArray" />
-        <item itemvalue="Application.Practice" />
-        <item itemvalue="Application.Practice (1)" />
       </list>
     </recent_temporary>
   </component>

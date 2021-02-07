@@ -33,7 +33,11 @@ public class WordBreak_BackTracking {
             String cut = s.substring(0, i);
             if(dictionary.contains(cut)){
                 String rest = s.substring(i);
-                solve(rest, ans + " " + cut, dictionary);
+                if(ans.length() == 0) {
+                    solve(rest, ans + cut, dictionary);
+                } else {
+                    solve(rest, ans + " " + cut, dictionary);
+                }
             }
         }
     }
