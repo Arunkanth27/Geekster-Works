@@ -49,7 +49,7 @@
       <recent name="Homework.LinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WordBreak_BackTracking">
+  <component name="RunManager" selected="Application.DeleteByPointer">
     <configuration name="DeleteByPointer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework.LinkedList.DeleteByPointer" />
       <module name="Geekster" />
@@ -57,22 +57,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MatrixToSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework.Matrix.MatrixToSortedArray" />
+    <configuration name="DeleteNthLastNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.LinkedList.DeleteNthLastNode" />
       <module name="Geekster" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumProductSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework.Arrays.MaximumProductSubarray" />
+    <configuration name="DiagonalTraverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.Matrix.DiagonalTraverse" />
       <module name="Geekster" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RearrangePositiveAndNegativeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework.Arrays.RearrangePositiveAndNegativeNumber" />
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice" />
       <module name="Geekster" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WordBreak_BackTracking" />
         <item itemvalue="Application.DeleteByPointer" />
-        <item itemvalue="Application.MatrixToSortedArray" />
-        <item itemvalue="Application.MaximumProductSubarray" />
-        <item itemvalue="Application.RearrangePositiveAndNegativeNumber" />
+        <item itemvalue="Application.DeleteNthLastNode" />
+        <item itemvalue="Application.DiagonalTraverse" />
+        <item itemvalue="Application.Practice" />
+        <item itemvalue="Application.WordBreak_BackTracking" />
       </list>
     </recent_temporary>
   </component>
