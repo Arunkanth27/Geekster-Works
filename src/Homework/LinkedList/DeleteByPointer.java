@@ -10,16 +10,21 @@ public class DeleteByPointer {
 
         deleteByPointer(head.next);
 
-        while(head != null) {
+        while(head.next != null) {
             System.out.print(head.key + " ");
             head = head.next;
         }
     }
 
-    private static void deleteByPointer(Node pointer) {
-        Node temp = pointer.next;
-        pointer.key = temp.key;
-        pointer.next = temp.next;
-        temp = null;
+    public static void deleteByPointer(Node pointer) {
+//        Node temp = pointer.next;
+//        pointer.key = temp.key;
+//        pointer.next = temp.next;
+//        temp = null;
+
+        while(pointer.next != null) {
+            pointer.key = pointer.next.key;
+            pointer = pointer.next;
+        }
     }
 }

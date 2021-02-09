@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a164d1e3-a59b-4024-979e-e4f9c31ea10c" name="Default Changelist" comment="Day 8 with some updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework/LinkedList/DeleteByPointer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework/LinkedList/DeleteByPointer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
