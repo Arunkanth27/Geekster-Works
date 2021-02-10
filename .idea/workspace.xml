@@ -3,24 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a164d1e3-a59b-4024-979e-e4f9c31ea10c" name="Default Changelist" comment="Day 8 with some updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/GeeksterWorks/Week4/Day13and14/LinkedList$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/GeeksterWorks/Week4/Day13and14/LinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/GeeksterWorks/Week4/Day13and14/LinkedListPractice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/GeeksterWorks/Week5/Day15/Kth_Last_Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/GeeksterWorks/Week5/Day15/LinkedListFold.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/GeeksterWorks/Week5/Day15/LinkedListReverse_Recursion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/GeeksterWorks/Week5/Day15/LinkedList_isCycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/GeeksterWorks/Week5/Day15/Merge_Two_Sorted_List.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/GeeksterWorks/Week5/Day15/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/GeeksterWorks/Week5/Day15/Reverse_LinkedList_Pointer_Recursive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GeeksterWorks/Week4/Day13and14/LinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GeeksterWorks/Week5/Day15/Kth_Last_Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GeeksterWorks/Week5/Day15/LinkedListFold.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GeeksterWorks/Week5/Day15/LinkedListReverse_Recursion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GeeksterWorks/Week5/Day15/LinkedList_isCycle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GeeksterWorks/Week5/Day15/Merge_Two_Sorted_List.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GeeksterWorks/Week5/Day15/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GeeksterWorks/Week5/Day15/Reverse_LinkedList_Pointer_Recursive.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,16 +54,9 @@
       <recent name="Homework.LinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Maximum_Length_Bitonic_Subarray">
     <configuration name="LinkedListPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GeeksterWorks.Week4.Day13and14.LinkedListPractice" />
-      <module name="Geekster" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinkedList_isCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GeeksterWorks.Week5.Day15.LinkedList_isCycle" />
       <module name="Geekster" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MakeArrayEqual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GeeksterWorks.Homework.Arrays.MakeArrayEqual" />
+    <configuration name="Maximum_Length_Bitonic_Subarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GeeksterWorks.Homework.Arrays.Maximum_Length_Bitonic_Subarray" />
       <module name="Geekster" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -108,13 +83,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThreeWayPartitioning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GeeksterWorks.Homework.Arrays.ThreeWayPartitioning" />
+      <module name="Geekster" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Maximum_Length_Bitonic_Subarray" />
+        <item itemvalue="Application.ThreeWayPartitioning" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.LinkedListPractice" />
         <item itemvalue="Application.Reverse_LinkedList_Pointer_Recursive" />
-        <item itemvalue="Application.LinkedList_isCycle" />
-        <item itemvalue="Application.MakeArrayEqual" />
       </list>
     </recent_temporary>
   </component>
