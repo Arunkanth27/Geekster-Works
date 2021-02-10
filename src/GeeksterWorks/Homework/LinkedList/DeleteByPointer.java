@@ -1,8 +1,6 @@
 package GeeksterWorks.Homework.LinkedList;
 
 public class DeleteByPointer {
-    static Node head;
-    static Node tail;
     public static void main(String[] args) {
         Node head = new Node(1);
         head.next = new Node(4);
