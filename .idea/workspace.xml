@@ -3,82 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="a164d1e3-a59b-4024-979e-e4f9c31ea10c" name="Default Changelist" comment="Day 8 with some updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/Homework/Arrays/ArrayToZigZagFashion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/Homework/Arrays/BuyAndSellStock_MaximumProfit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/Homework/Arrays/ChocolateDistribution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/Homework/Arrays/EquillibriumIndexOfAnArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/Homework/Arrays/KConcatenation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/Homework/Arrays/MaximumProductSubarray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/Homework/Arrays/MaximunNumberOfPlatforms.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/Homework/Arrays/PairOfTwoDifference.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/Homework/Arrays/RearrangePositiveAndNegativeNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/Homework/Arrays/SearchElementInSortedRotatedArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/Homework/Arrays/SubArraysWithGivenSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/Homework/Arrays/TrappingRainWater.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/Homework/LinkedList/DeleteByPointer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/Homework/LinkedList/DeleteNthLastNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/Homework/LinkedList/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/Homework/Matrix/DiagonalTraverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/Homework/Matrix/MatrixToSortedArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/Arrays/ArrayToZigZagFashion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Homework/Arrays/ArrayToZigZagFashion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/Arrays/BuyAndSellStock_MaximumProfit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Homework/Arrays/BuyAndSellStock_MaximumProfit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/Arrays/ChocolateDistribution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Homework/Arrays/ChocolateDistribution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/Arrays/EquillibriumIndexOfAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Homework/Arrays/EquillibriumIndexOfAnArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/Arrays/KConcatenation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Homework/Arrays/KConcatenation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/Arrays/MaximumProductSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Homework/Arrays/MaximumProductSubarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/Arrays/MaximunNumberOfPlatforms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Homework/Arrays/MaximunNumberOfPlatforms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/Arrays/PairOfTwoDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Homework/Arrays/PairOfTwoDifference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/Arrays/RearrangePositiveAndNegativeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Homework/Arrays/RearrangePositiveAndNegativeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/Arrays/SearchElementInSortedRotatedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Homework/Arrays/SearchElementInSortedRotatedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/Arrays/SubArraysWithGivenSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Homework/Arrays/SubArraysWithGivenSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/Arrays/TrappingRainWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Homework/Arrays/TrappingRainWater.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/LinkedList/DeleteByPointer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Homework/LinkedList/DeleteByPointer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/LinkedList/DeleteNthLastNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Homework/LinkedList/DeleteNthLastNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/LinkedList/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Homework/LinkedList/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/Matrix/DiagonalTraverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Homework/Matrix/DiagonalTraverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework/Matrix/MatrixToSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Homework/Matrix/MatrixToSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week1/Day1/Day1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week1/Day1/Day1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week1/Day2/Day2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week1/Day2/Day2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week1/Day3/Day3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week1/Day3/Day3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/Day5/Day5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week2/Day5/Day5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/Day6/Day6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week2/Day6/Day6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/Day7/AllIdx_Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week2/Day7/AllIdx_Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/Day7/Factorial_Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week2/Day7/Factorial_Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/Day7/Fibonacci_Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week2/Day7/Fibonacci_Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/Day7/MaxArray_Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week2/Day7/MaxArray_Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/Day7/Power_Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week2/Day7/Power_Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/Day7/PrintArray_Recursivon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week2/Day7/PrintArray_Recursivon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/Day7/Print_Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week2/Day7/Print_Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/Day7/Print_Recursion2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week2/Day7/Print_Recursion2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/Day7/SearchIdx_Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week2/Day7/SearchIdx_Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/Day7/Search_Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week2/Day7/Search_Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/Day7/getPermutation_Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week2/Day7/getPermutation_Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/Day7/getSubSequence_Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week2/Day7/getSubSequence_Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/Day10/GetBoardParts_QAApproach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week3/Day10/GetBoardParts_QAApproach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/Day10/GetMazePathsDiagonal_QAApproach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week3/Day10/GetMazePathsDiagonal_QAApproach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/Day10/GetMazePaths_QAApporach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week3/Day10/GetMazePaths_QAApporach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/Day10/NQueen_Backtracking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week3/Day10/NQueen_Backtracking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/Day10/PrintLexicographically_Backtracking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week3/Day10/PrintLexicographically_Backtracking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/Day10/SolveSudoku_Backtracking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week3/Day10/SolveSudoku_Backtracking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/Day11/PrintArrayToKSubsets_Backtracking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week3/Day11/PrintArrayToKSubsets_Backtracking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/Day11/PrintArrayToKSumSubset_Backtracking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week3/Day11/PrintArrayToKSumSubset_Backtracking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/Day11/RemoveInvalidParenthesis_Backtracking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week3/Day11/RemoveInvalidParenthesis_Backtracking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/Day11/WordBreak_BackTracking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week3/Day11/WordBreak_BackTracking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/Day8/GetBoardParts_Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week3/Day8/GetBoardParts_Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/Day8/GetKeypadCharacter_Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week3/Day8/GetKeypadCharacter_Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/Day8/GetMazePathDiagonalMultipleMoves_Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week3/Day8/GetMazePathDiagonalMultipleMoves_Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/Day8/GetMazePathsDiagonal_Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week3/Day8/GetMazePathsDiagonal_Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/Day8/GetMazePaths_Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week3/Day8/GetMazePaths_Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/Day9/GetKeypadCharacter_QAApproach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week3/Day9/GetKeypadCharacter_QAApproach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/Day9/PrintSplitArray_QAApproach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week3/Day9/PrintSplitArray_QAApproach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/Day9/TargetSumSubsequence_QAApproach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week3/Day9/TargetSumSubsequence_QAApproach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/Day9/getPermutation_QAApproach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week3/Day9/getPermutation_QAApproach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/Day9/getSubsequence_QAApproach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week3/Day9/getSubsequence_QAApproach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week4/Day12/FillBinaryValue_Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week4/Day12/FillBinaryValue_Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week4/Day12/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week4/Day12/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week4/Day12/PivotPartition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week4/Day12/PivotPartition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week4/Day12/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week4/Day12/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week4/Day13/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week4/Day13and14/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekster/GeeksterWorks/Homework/LinkedList/DeleteByPointer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekster/GeeksterWorks/Homework/LinkedList/DeleteByPointer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekster/GeeksterWorks/Week5/Day15/Reverse_LinkedList_Pointer_Recursive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekster/GeeksterWorks/Week5/Day15/Reverse_LinkedList_Pointer_Recursive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GeeksterWorks/Week4/Day13and14/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week4/Day13and14/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GeeksterWorks/Week5/Day15/Reverse_LinkedList_Pointer_Recursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Week5/Day15/Reverse_LinkedList_Pointer_Recursive.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,9 +58,9 @@
       <recent name="Homework.LinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LinkedList_isCycle">
-    <configuration name="DeleteByPointer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GeeksterWorks.Homework.LinkedList.DeleteByPointer" />
+  <component name="RunManager" selected="Application.LinkedListPractice">
+    <configuration name="LinkedListPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GeeksterWorks.Week4.Day13and14.LinkedListPractice" />
       <module name="Geekster" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -168,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LinkedList_isCycle" />
+        <item itemvalue="Application.LinkedListPractice" />
         <item itemvalue="Application.Reverse_LinkedList_Pointer_Recursive" />
+        <item itemvalue="Application.LinkedList_isCycle" />
         <item itemvalue="Application.MakeArrayEqual" />
         <item itemvalue="Application.Merge_Two_Sorted_List" />
-        <item itemvalue="Application.DeleteByPointer" />
       </list>
     </recent_temporary>
   </component>

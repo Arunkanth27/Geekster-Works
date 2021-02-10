@@ -1,6 +1,8 @@
 package GeeksterWorks.Week5.Day15;
 
 public class Reverse_LinkedList_Pointer_Recursive {
+    static Node head;
+    static Node tail;
     public static void main(String[] args) {
         Node head = new Node(1);
         head.next = new Node(2);
@@ -17,12 +19,12 @@ public class Reverse_LinkedList_Pointer_Recursive {
     }
 
     public static void solve(Node node) {
-        helper(node);
-        Node head = node;
-        Node tail = node;
+        head = node;
+        tail = node;
         while(tail.next != null) {
             tail = tail.next;
         }
+        helper(head);
         int temp = head.key;
         head.key = tail.key;
         tail.key = temp;

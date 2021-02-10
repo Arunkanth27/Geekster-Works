@@ -2,9 +2,9 @@ package GeeksterWorks.Week4.Day13and14;
 
 public class LinkedList {
 
-    private Node head;
-    private int size;
-    private Node tail;
+    Node head;
+    int size;
+    Node tail;
 
     public LinkedList() {
         size = 0;
