@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a164d1e3-a59b-4024-979e-e4f9c31ea10c" name="Default Changelist" comment="Day 8 with some updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GeeksterWorks/LinkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/LinkedList/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GeeksterWorks/LinkedList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/LinkedList/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +56,7 @@
       <recent name="Homework.LinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Maximum_Length_Bitonic_Subarray">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="LinkedListPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GeeksterWorks.Week4.Day13and14.LinkedListPractice" />
       <module name="Geekster" />
@@ -92,9 +94,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Maximum_Length_Bitonic_Subarray" />
         <item itemvalue="Application.ThreeWayPartitioning" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.LinkedListPractice" />
         <item itemvalue="Application.Reverse_LinkedList_Pointer_Recursive" />
       </list>

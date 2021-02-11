@@ -392,5 +392,32 @@ class LinkedList {
         return false;
     }
 
+    public void removeDuplicate() {
+//        Node head = this.head;
+//        Node current = this.head.getNext();
+//
+//        while(current != null) {
+//            if(head.getData() != current.getData()) {
+//                head.setNext(new Node(current.getData()));
+//                head = head.getNext();
+//            }
+//            current = current.getNext();
+//        }
+
+        if(head == null || head.getNext() == null) {
+            return;
+        }
+        Node current = head;
+
+        while(current != null && current.getNext() != null) {
+            while(current.getNext() != null && current.getData() == current.getNext().getData()) {
+                current.setNext(current.getNext().getNext());
+            }
+            current = current.getNext();
+        }
+
+
+    }
+
 
 }
