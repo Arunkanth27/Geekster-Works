@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a164d1e3-a59b-4024-979e-e4f9c31ea10c" name="Default Changelist" comment="deleteCycle">
+    <list default="true" id="a164d1e3-a59b-4024-979e-e4f9c31ea10c" name="Default Changelist" comment="reverseInGroup">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GeeksterWorks/LinkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/LinkedList/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GeeksterWorks/LinkedList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/LinkedList/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +57,7 @@
       <recent name="Homework.LinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.reverseInGroups">
     <configuration name="DeleteNthLastNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GeeksterWorks.Homework.LinkedList.DeleteNthLastNode" />
       <module name="Geekster" />
@@ -69,13 +67,6 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GeeksterWorks.LinkedList.Main" />
-      <module name="Geekster" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Maximum_Length_Bitonic_Subarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GeeksterWorks.Homework.Arrays.Maximum_Length_Bitonic_Subarray" />
       <module name="Geekster" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,13 +86,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="reverseInGroups" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GeeksterWorks.Homework.LinkedList.reverseInGroups" />
+      <module name="Geekster" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.reverseInGroups" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.reverseInGroup" />
         <item itemvalue="Application.DeleteNthLastNode" />
         <item itemvalue="Application.nodeBeforeCycle" />
-        <item itemvalue="Application.Maximum_Length_Bitonic_Subarray" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +122,8 @@
     <MESSAGE value="Day 8 with some updates" />
     <MESSAGE value="removeDuplicates" />
     <MESSAGE value="deleteCycle" />
-    <option name="LAST_COMMIT_MESSAGE" value="deleteCycle" />
+    <MESSAGE value="reverseInGroup" />
+    <option name="LAST_COMMIT_MESSAGE" value="reverseInGroup" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
