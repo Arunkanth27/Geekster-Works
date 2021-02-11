@@ -419,5 +419,25 @@ class LinkedList {
 
     }
 
+    public void nodeBeforeCycle() {
+        if(!isCycle(this)) {
+            return;
+        }
+        Node slow = head;
+        Node fast = head.getNext();
+        while(slow != fast) {
+            slow = slow.getNext();
+            fast = fast.getNext().getNext();
+        }
+        slow = head;
+        Node prev = fast;
+        while(slow != fast) {
+            prev = fast;
+            slow = slow.getNext();
+            fast = fast.getNext().getNext();
+        }
+
+        prev.setNext(null);
+    }
 
 }

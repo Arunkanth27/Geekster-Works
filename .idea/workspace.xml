@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a164d1e3-a59b-4024-979e-e4f9c31ea10c" name="Default Changelist" comment="Day 8 with some updates">
+    <list default="true" id="a164d1e3-a59b-4024-979e-e4f9c31ea10c" name="Default Changelist" comment="removeDuplicates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekster/GeeksterWorks/Homework/Arrays/Maximum_Length_Bitonic_Subarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekster/GeeksterWorks/Homework/Arrays/Maximum_Length_Bitonic_Subarray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekster/GeeksterWorks/LinkedList/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekster/GeeksterWorks/LinkedList/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekster/GeeksterWorks/LinkedList/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekster/GeeksterWorks/LinkedList/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GeeksterWorks/LinkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/LinkedList/LinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GeeksterWorks/LinkedList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/LinkedList/Main.java" afterDir="false" />
     </list>
@@ -78,15 +81,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse_LinkedList_Pointer_Recursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GeeksterWorks.Week5.Day15.Reverse_LinkedList_Pointer_Recursive" />
+    <configuration name="ThreeWayPartitioning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GeeksterWorks.Homework.Arrays.ThreeWayPartitioning" />
       <module name="Geekster" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreeWayPartitioning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GeeksterWorks.Homework.Arrays.ThreeWayPartitioning" />
+    <configuration name="nodeBeforeCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GeeksterWorks.Homework.LinkedList.nodeBeforeCycle" />
       <module name="Geekster" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,10 +98,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.nodeBeforeCycle" />
         <item itemvalue="Application.Maximum_Length_Bitonic_Subarray" />
         <item itemvalue="Application.ThreeWayPartitioning" />
         <item itemvalue="Application.LinkedListPractice" />
-        <item itemvalue="Application.Reverse_LinkedList_Pointer_Recursive" />
       </list>
     </recent_temporary>
   </component>
@@ -119,7 +122,8 @@
     <MESSAGE value="update get permutation" />
     <MESSAGE value="updated Day 5 waterwall problem" />
     <MESSAGE value="Day 8 with some updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 8 with some updates" />
+    <MESSAGE value="removeDuplicates" />
+    <option name="LAST_COMMIT_MESSAGE" value="removeDuplicates" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -4,13 +4,18 @@ public class Main {
 
     public static void main(String[] args) throws Exception {
         LinkedList linkedList = new LinkedList();
-        linkedList.addFirst(2);
+        linkedList.addFirst(1);
+        linkedList.addLast(2);
+        linkedList.addLast(3);
+        linkedList.addLast(4);
+        linkedList.addLast(5);
+        linkedList.addLast(6);
         linkedList.addLast(7);
-        linkedList.addLast(7);
-        linkedList.addLast(7);
-        linkedList.addLast(7);
-        linkedList.removeDuplicate();
+        LinkedList.makeCycle(linkedList);
+//        linkedList.removeDuplicate();
+        linkedList.nodeBeforeCycle();
         linkedList.display();
+//        linkedList.display();
 //		linkedList.addLast(5);
 //        linkedList.addAtPos(new Node(9), 2);
 //        linkedList.display();
