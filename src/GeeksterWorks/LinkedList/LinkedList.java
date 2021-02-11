@@ -440,4 +440,32 @@ class LinkedList {
         prev.setNext(null);
     }
 
+    public void reverseInGroups(int k) {
+        Node temp = head;
+        head = reverseInGroup(head, k);
+        tail = temp;
+    }
+
+    private Node reverseInGroup(Node head, int k) {
+        Node current = head;
+        Node prev = null;
+        Node nextNode = null;
+
+        int count = 0;
+
+        while(count < k && current != null) {
+            nextNode = current.getNext();
+            current.setNext(prev);
+            prev = current;
+            current = nextNode;
+            count += 1;
+        }
+
+        if(nextNode != null) {
+            head.setNext(reverseInGroup(nextNode, k));
+        }
+
+        return prev;
+    }
+
 }

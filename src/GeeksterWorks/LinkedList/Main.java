@@ -10,10 +10,11 @@ public class Main {
         linkedList.addLast(4);
         linkedList.addLast(5);
         linkedList.addLast(6);
-        linkedList.addLast(7);
-        LinkedList.makeCycle(linkedList);
+//        linkedList.addLast(7);
+        linkedList.reverseInGroups(2);
+//        LinkedList.makeCycle(linkedList);
 //        linkedList.removeDuplicate();
-        linkedList.nodeBeforeCycle();
+//        linkedList.nodeBeforeCycle();
         linkedList.display();
 //        linkedList.display();
 //		linkedList.addLast(5);
