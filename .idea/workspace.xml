@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a164d1e3-a59b-4024-979e-e4f9c31ea10c" name="Default Changelist" comment="reverseInGroup_homework">
+    <list default="true" id="a164d1e3-a59b-4024-979e-e4f9c31ea10c" name="Default Changelist" comment="FastScanner and Test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/GeeksterWorks/Homework/LinkedList/nodeBeforeCycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekster/GeeksterWorks/Homework/LinkedList/nodeBeforeCycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/GeeksterWorks/LinkedList/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekster/GeeksterWorks/LinkedList/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geekster/GeeksterWorks/LinkedList/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekster/GeeksterWorks/LinkedList/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GeeksterWorks/Homework/Arrays/ThreeWayPartitioning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Homework/Arrays/ThreeWayPartitioning.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +124,8 @@
     <MESSAGE value="deleteCycle" />
     <MESSAGE value="reverseInGroup" />
     <MESSAGE value="reverseInGroup_homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="reverseInGroup_homework" />
+    <MESSAGE value="FastScanner and Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="FastScanner and Test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
