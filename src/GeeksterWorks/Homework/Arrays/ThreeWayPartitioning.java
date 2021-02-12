@@ -1,12 +1,18 @@
 package GeeksterWorks.Homework.Arrays;
 
+import GeeksterWorks.FastScanner;
 import GeeksterWorks.RuffleSort.Ruffle;
 
+import java.io.IOException;
 import java.util.*;
 
 public class ThreeWayPartitioning {
-    public static void main(String[] args) {
-        int[] arr= {1, 14, 5, 20, 4, 2, 54, 20, 87, 98, 3, 1, 32};
+    public static void main(String[] args) throws IOException {
+//        {1, 14, 5, 20, 4, 2, 54, 20, 87, 98, 3, 1, 32};
+        FastScanner fs = new FastScanner();
+        int size = fs.nextInt();
+        int[] arr= fs.nextIntArray(size);
+
         solve(arr, 14, 20);
     }
 

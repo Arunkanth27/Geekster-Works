@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a164d1e3-a59b-4024-979e-e4f9c31ea10c" name="Default Changelist" comment="reverseInGroup">
+    <list default="true" id="a164d1e3-a59b-4024-979e-e4f9c31ea10c" name="Default Changelist" comment="reverseInGroup_homework">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekster/GeeksterWorks/Homework/LinkedList/nodeBeforeCycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekster/GeeksterWorks/Homework/LinkedList/nodeBeforeCycle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekster/GeeksterWorks/LinkedList/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekster/GeeksterWorks/LinkedList/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Geekster/GeeksterWorks/LinkedList/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geekster/GeeksterWorks/LinkedList/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GeeksterWorks/Homework/Arrays/ThreeWayPartitioning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Homework/Arrays/ThreeWayPartitioning.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,16 +61,16 @@
       <recent name="Homework.LinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.reverseInGroups">
-    <configuration name="DeleteNthLastNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GeeksterWorks.Homework.LinkedList.DeleteNthLastNode" />
+  <component name="RunManager" selected="Application.ThreeWayPartitioning">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GeeksterWorks.LinkedList.Main" />
       <module name="Geekster" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GeeksterWorks.LinkedList.Main" />
+    <configuration name="ThreeWayPartitioning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GeeksterWorks.Homework.Arrays.ThreeWayPartitioning" />
       <module name="Geekster" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.reverseInGroups" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.reverseInGroup" />
-        <item itemvalue="Application.DeleteNthLastNode" />
+        <item itemvalue="Application.ThreeWayPartitioning" />
         <item itemvalue="Application.nodeBeforeCycle" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.reverseInGroups" />
+        <item itemvalue="Application.reverseInGroup" />
       </list>
     </recent_temporary>
   </component>
@@ -123,7 +127,8 @@
     <MESSAGE value="removeDuplicates" />
     <MESSAGE value="deleteCycle" />
     <MESSAGE value="reverseInGroup" />
-    <option name="LAST_COMMIT_MESSAGE" value="reverseInGroup" />
+    <MESSAGE value="reverseInGroup_homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="reverseInGroup_homework" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -132,6 +137,11 @@
           <url>file://$PROJECT_DIR$/src/GeeksterWorks/Homework/Arrays/MakeArrayEqual.java</url>
           <line>8</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GeeksterWorks/LinkedList/Main.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/GeeksterWorks/RuffleSort/Ruffle.java</url>
