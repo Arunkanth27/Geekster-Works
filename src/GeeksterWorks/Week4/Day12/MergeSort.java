@@ -1,9 +1,16 @@
 package GeeksterWorks.Week4.Day12;
 
+import java.io.IOException;
+
+import GeeksterWorks.FastScanner;
+
 public class MergeSort {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
 //        Scanner sc = new Scanner(System.in);
-        int[] arr = {38, 27, 43, 3, 9, 82, 10};
+//         {38, 27, 43, 3, 9, 82, 10}
+        FastScanner fs = new FastScanner();
+        int size = fs.nextInt();
+        int[] arr = fs.nextIntArray1(size);
         mergesort(arr);
         for(int i : arr) {
             System.out.print(i + " ");
