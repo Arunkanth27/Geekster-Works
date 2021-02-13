@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a164d1e3-a59b-4024-979e-e4f9c31ea10c" name="Default Changelist" comment="new commit">
-      <change beforePath="$PROJECT_DIR$/src/GeeksterWorks/Stack_Questions/DirectoryStructure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Stack_Questions/DirectoryStructure.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GeeksterWorks/Stack_Questions/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GeeksterWorks/Stack_Questions/Stack.java" beforeDir="false" />
+    <list default="true" id="a164d1e3-a59b-4024-979e-e4f9c31ea10c" name="Default Changelist" comment="Updates">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +127,8 @@
     <MESSAGE value="reverseInGroup_homework" />
     <MESSAGE value="FastScanner and Test" />
     <MESSAGE value="new commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="new commit" />
+    <MESSAGE value="Updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -143,11 +142,6 @@
           <url>file://$PROJECT_DIR$/src/GeeksterWorks/LinkedList/Main.java</url>
           <line>20</line>
           <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/GeeksterWorks/Stack_Questions/DirectoryStructure.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="44" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
