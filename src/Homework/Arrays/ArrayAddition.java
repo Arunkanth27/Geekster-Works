@@ -18,17 +18,9 @@ public class ArrayAddition {
     }
 
     private static int[] solve(int[] array) {
-        int[] result = new int[array.length];
-        int temp = 0;
-        for(int i = 0 ; i < array.length ; i++) {
-            temp = 0;
-            for(int j = i ; j <= 2 * i && j < array.length ; j++) {
-                temp += array[j];
-            }
-            result[i] = temp;
-        }
+        int[] prefixsum = new int[array.length];
 
-        return result;
+        return null;
     }
     
 }
