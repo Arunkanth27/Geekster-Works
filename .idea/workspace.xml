@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a164d1e3-a59b-4024-979e-e4f9c31ea10c" name="Default Changelist" comment="new commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GeeksterWorks/Homework/Arrays/MakeArrayEqual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Homework/Arrays/MakeArrayEqual.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GeeksterWorks/Homework/Arrays/ThreeWayPartitioning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Homework/Arrays/ThreeWayPartitioning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GeeksterWorks/RuffleSort/Ruffle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Ruffle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GeeksterWorks/Stack_Questions/DirectoryStructure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Stack_Questions/DirectoryStructure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GeeksterWorks/Stack_Questions/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GeeksterWorks/Stack_Questions/Stack.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,28 +146,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/GeeksterWorks/Stack_Questions/DirectoryStructure.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="41" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/GeeksterWorks/Stack_Questions/DirectoryStructure.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="42" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/GeeksterWorks/Stack_Questions/DirectoryStructure.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="43" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/GeeksterWorks/Stack_Questions/DirectoryStructure.java</url>
           <line>28</line>
           <option name="timeStamp" value="44" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/GeeksterWorks/Stack_Questions/DirectoryStructure.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="45" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

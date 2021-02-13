@@ -1,7 +1,7 @@
 package GeeksterWorks.Stack_Questions;
 
 import GeeksterWorks.FastScanner;
-
+import java.util.*;
 import java.io.IOException;
 
 public class DirectoryStructure {
@@ -12,21 +12,18 @@ public class DirectoryStructure {
     }
 
     private static String solve(String directory) {
-        Stack<String> stack = new Stack<String>();
+        Stack<String> stack = new Stack<>();
         String[] strarray = directory.split("/");
-        StringBuffer sb = new StringBuffer();
-        for(int i = 0 ; i < strarray.length ; i++) {
-            String s = strarray[i];
-            if(s.equals("..")) {
+        StringBuilder sb = new StringBuilder();
+        for (String s : strarray) {
+            if (s.equals("..")) {
                 stack.pop();
-            } else if(s.equals("")) {
-                continue;
-            } else {
+            } else if (!s.equals("")) {
                 stack.push(s);
             }
         }
         while(!stack.isEmpty()) {
-            sb.append(stack.pop() + "/");
+            sb.append(stack.pop()).append("/");
         }
         return sb.reverse().toString();
     }
