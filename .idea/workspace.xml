@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a164d1e3-a59b-4024-979e-e4f9c31ea10c" name="Default Changelist" comment="FastScanner and Test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GeeksterWorks/Stack/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksterWorks/Stack/Stack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,9 +58,23 @@
       <recent name="Homework.LinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThreeWayPartitioning">
+  <component name="RunManager" selected="Application.DirectoryStructure">
+    <configuration name="DirectoryStructure" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GeeksterWorks.Stack.DirectoryStructure" />
+      <module name="Geekster" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GeeksterWorks.LinkedList.Main" />
+      <module name="Geekster" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NextGreaterElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GeeksterWorks.Stack.NextGreaterElement" />
       <module name="Geekster" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,27 +94,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reverseInGroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GeeksterWorks.Homework.LinkedList.reverseInGroup" />
-      <module name="Geekster" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="reverseInGroups" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GeeksterWorks.Homework.LinkedList.reverseInGroups" />
-      <module name="Geekster" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DirectoryStructure" />
+        <item itemvalue="Application.NextGreaterElement" />
         <item itemvalue="Application.ThreeWayPartitioning" />
         <item itemvalue="Application.nodeBeforeCycle" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.reverseInGroups" />
-        <item itemvalue="Application.reverseInGroup" />
       </list>
     </recent_temporary>
   </component>

@@ -29,4 +29,8 @@ class Stack<T> {
         return stack.size();
     }
 
+	public boolean isEmpty() {
+		return false;
+	}
+
 }
