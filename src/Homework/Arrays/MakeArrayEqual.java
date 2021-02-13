@@ -1,6 +1,6 @@
 package Homework.Arrays;
 
-import Ruffle;
+import RuffleSort.Ruffle;
 
 public class MakeArrayEqual {
 

@@ -4,7 +4,7 @@ import java.io.IOException;
 
 public class MajorityElement {
     public static void main(String[] args) throws IOException {
-        // FastScanner fs = new FastScanner();
+        // FastScanner.FastScanner fs = new FastScanner.FastScanner();
         // int size = fs.nextInt();
         // int[] array = fs.nextIntArray(size);
         int[] array = {3, 3, 4, 2, 4, 4, 2, 4};

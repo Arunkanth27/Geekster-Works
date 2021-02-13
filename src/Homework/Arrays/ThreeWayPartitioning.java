@@ -1,6 +1,7 @@
 package Homework.Arrays;
 
-import FastScanner;
+import FastScanner.FastScanner;
+import RuffleSort.Ruffle;
 
 import java.io.IOException;
 
@@ -10,7 +11,6 @@ public class ThreeWayPartitioning {
         FastScanner fs = new FastScanner();
         int size = fs.nextInt();
         int[] arr= fs.nextIntArray(size);
-
         solve(arr, 14, 20);
     }
 

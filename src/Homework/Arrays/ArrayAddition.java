@@ -1,12 +1,12 @@
 package Homework.Arrays;
 
-import FastScanner;
+import FastScanner.FastScanner;
 
 import java.io.*;
 
 public class ArrayAddition {
     public static void main(String[] args) throws IOException{
-        
+
         FastScanner fs = new FastScanner();
         int size = fs.nextInt();
         int[] array = fs.nextIntArray(size);

@@ -1,6 +1,7 @@
 package Stack_Questions;
 
-import FastScanner;
+import FastScanner.FastScanner;
+
 import java.util.*;
 import java.io.IOException;
 

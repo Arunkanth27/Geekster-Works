@@ -2,7 +2,7 @@ package Day12;
 
 import java.io.IOException;
 
-import FastScanner;
+import FastScanner.FastScanner;
 
 public class MergeSort {
     public static void main(String[] args) throws IOException {

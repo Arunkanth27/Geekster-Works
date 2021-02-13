@@ -3,7 +3,7 @@ package Stack_Questions;
 import java.io.IOException;
 import java.util.Stack;
 
-import FastScanner;
+import FastScanner.FastScanner;
 
 public class NextGreaterElement {
     public static void main(String[] args) throws IOException {

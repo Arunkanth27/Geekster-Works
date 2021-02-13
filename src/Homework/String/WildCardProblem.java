@@ -2,7 +2,7 @@ package Homework.String;
 
 import java.io.*;
 
-import FastScanner;
+import FastScanner.FastScanner;
 
 public class WildCardProblem {
 	public static void main(String[] args) throws IOException{
