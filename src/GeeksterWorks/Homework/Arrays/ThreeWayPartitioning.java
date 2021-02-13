@@ -1,10 +1,8 @@
 package GeeksterWorks.Homework.Arrays;
 
 import GeeksterWorks.FastScanner;
-import GeeksterWorks.RuffleSort.Ruffle;
 
 import java.io.IOException;
-import java.util.*;
 
 public class ThreeWayPartitioning {
     public static void main(String[] args) throws IOException {

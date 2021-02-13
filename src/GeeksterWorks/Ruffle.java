@@ -1,4 +1,4 @@
-package GeeksterWorks.RuffleSort;
+package GeeksterWorks;
 
 import java.util.*;
 

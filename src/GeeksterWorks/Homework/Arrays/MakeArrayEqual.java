@@ -1,6 +1,6 @@
 package GeeksterWorks.Homework.Arrays;
 
-import GeeksterWorks.RuffleSort.Ruffle;
+import GeeksterWorks.Ruffle;
 
 public class MakeArrayEqual {
 
