@@ -10,6 +10,7 @@ public class Day5 {
 //        waterandwall();
 //        mergelist();
 //        majorityelement();
+        // System.out.println(waterwall(new int[]{0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1}));
     }
 
     public static void majorityelement() {
@@ -133,4 +134,16 @@ public class Day5 {
 
         sc.close();
     }
+
+    // public static int waterwall(int[] height) {
+    //     int maxarea = 0, l = 0, r = height.length - 1;
+    //     while (l < r) {
+    //         maxarea = Math.max(maxarea, Math.min(height[l], height[r]) * (r - l));
+    //         if (height[l] < height[r])
+    //             l++;
+    //         else
+    //             r--;
+    //     }
+    //     return maxarea;
+    // }
 }
