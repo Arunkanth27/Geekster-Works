@@ -1,4 +1,4 @@
-package GeeksterWorks.Week4.Day13;
+package GeeksterWorks.Stack;
 
 public class Main {
     //*Stack Testing
