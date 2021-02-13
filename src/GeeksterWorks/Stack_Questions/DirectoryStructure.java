@@ -1,9 +1,8 @@
-package GeeksterWorks.Stack;
+package GeeksterWorks.Stack_Questions;
 
 import GeeksterWorks.FastScanner;
 
 import java.io.IOException;
-import java.util.*;
 
 public class DirectoryStructure {
     public static void main(String[] args) throws IOException {

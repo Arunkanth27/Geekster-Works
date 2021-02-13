@@ -1,8 +1,6 @@
-package GeeksterWorks.Stack;
+package GeeksterWorks.Stack_Questions;
 
 import java.util.ArrayList;
-
-import java.util.*;
 
 class Stack<T> {
     private ArrayList<T> stack;

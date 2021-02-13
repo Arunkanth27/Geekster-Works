@@ -1,4 +1,4 @@
-package GeeksterWorks.Stack;
+package GeeksterWorks.Stack_Questions;
 
 public class Main {
     //*Stack Testing

@@ -1,4 +1,4 @@
-package GeeksterWorks.Stack;
+package GeeksterWorks.Stack_Questions;
 
 import java.io.IOException;
 import java.util.Stack;
