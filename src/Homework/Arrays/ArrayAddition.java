@@ -34,6 +34,7 @@ public class ArrayAddition {
                 count += 1;
             } else {
                 count -= 1;
+//                result[k++] = prefixsum[prefixsum.length - 1] - prefixsum[i - 1];
                 result[k++] = prefixsum[i + count] - prefixsum[i - 1];
             }
         }
